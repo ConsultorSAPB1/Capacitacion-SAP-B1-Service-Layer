@@ -1,7 +1,16 @@
 # Capacitacion-SAP-B1-Service-Layer
 Capacitacion SAP B1 - Service Layer
 
+🚀 ¡Lleva tus habilidades en SAP Business One al siguiente nivel! 🚀
+Si trabajas con SAP Business One o estás buscando mejorar tu comprensión de la integración y automatización de servicios, ¡esta capacitación es para ti! 🔧✨
 
+Te invito a unirte a mi Capacitación SAP Business One - Service Layer
+
+Link de conexión:
+
+[![SAP Business One - Service Layer]](https://www.udemy.com/course/sap-business-one-sap-b1-service-layer-mi-primer-proyecto/?referralCode=612987A98F95B33A0153)
+<br>
+<br>
 
 SAP Business One - 01 Instalacion VirtualBox - Maquina Virtual
 
