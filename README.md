@@ -9,8 +9,15 @@ Te invito a unirte a mi Capacitación SAP Business One - Service Layer
 Link de conexión:
 
 [![SAP Business One - Service Layer]](https://www.udemy.com/course/sap-business-one-sap-b1-service-layer-mi-primer-proyecto/?referralCode=612987A98F95B33A0153)
+
+📬 Contacto
+
+- 📧 Email: [ariasoft1@hotmail.com](mailto:ariasoft1@hotmail.com)
+- 💼 LinkedIn: [Santiago Arias](https://www.linkedin.com/in/sergio-santiago-arias-ortiz-139a34122/)
+- 🧑‍💻 Portafolio: [golivesap.com/](https://www.golivesap.com/)
+- 🎥 Curso Udemy: [SAP B1 - Service Layer](https://www.udemy.com/course/sap-business-one-sap-b1-service-layer-mi-primer-proyecto/?referralCode=612987A98F95B33A0153)
 <br>
-<br>
+<br>  
 
 SAP Business One - 01 Instalacion VirtualBox - Maquina Virtual
 
