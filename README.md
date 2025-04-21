@@ -54,3 +54,15 @@ SAP Business One - 12 Creacion Cuenta Asociada Clientes SAP Business One
 
 [![Nombre del video](https://img.youtube.com/vi/OL4ZWqhbdhk/0.jpg)](https://www.youtube.com/watch?v=OL4ZWqhbdhk)
 
+
+SAP Business One - 13 Creación de Proyecto ASP.Net Modelo Vista Controlador con Autenticación de usuario Identity
+
+[![Nombre del video](https://img.youtube.com/vi/su0HLoRQ9-Q/0.jpg)](https://www.youtube.com/watch?v=su0HLoRQ9-Q)
+
+SAP Business One - 14 Instalacion Postman Pruebas Service Layer SAP B1 - SAP Business One
+
+[![Nombre del video](https://img.youtube.com/vi/SHNcO1CP5U0/0.jpg)](https://www.youtube.com/watch?v=SHNcO1CP5U0)
+
+SAP Business One - 15 Instalacion DotNet para Ejecutar Aplicaciones ASP.NET en IIS
+
+[![Nombre del video](https://img.youtube.com/vi/tIPdFEkd2eI/0.jpg)](https://www.youtube.com/watch?v=tIPdFEkd2eI)
