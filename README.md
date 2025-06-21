@@ -1,5 +1,5 @@
-# Capacitacion-SAP-B1-Service-Layer
-Capacitacion SAP B1 - Service Layer
+# Capacitacion-SAP-B1-Service-Layer-DI-API
+Capacitacion SAP B1 - Service Layer DI API
 
 🚀 ¡Lleva tus habilidades en SAP Business One al siguiente nivel! 🚀
 Si trabajas con SAP Business One o estás buscando mejorar tu comprensión de la integración y automatización de servicios, ¡esta capacitación es para ti! 🔧✨
